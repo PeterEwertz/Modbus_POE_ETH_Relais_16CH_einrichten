@@ -1,2 +1,5 @@
 # Modbus_POE_ETH_Relais_16CH_einrichten
-16ch
+meine Rahmenbedingungen
+IP-Adresse zuweisen
+Modbus TCP
+Modbus RTU
